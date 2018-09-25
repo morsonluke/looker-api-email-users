@@ -1,0 +1,5 @@
+hosts:
+ 'localhost':
+    host: 'https://<<looker hostname>>.looker.com:19999/api/3.0/'
+    secret: '<<looker api secret>>'
+    token: '<<looker api token>>'
